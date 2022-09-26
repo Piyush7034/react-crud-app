@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman",
+      "email": "rohitsharma@abc.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Piyush Shukla",
+      "username": "piyushshukla",
+      "email": "piyushshukla@abc.com",
+      "phone": "123456789",
+      "id": 2
+    },
+    {
+      "name": "MS Dhoni",
+      "username": "msd",
+      "email": "msd@abc.com",
+      "phone": "9876543210",
+      "id": 3
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "Cheeku",
+      "email": "cheeku@abc.com",
+      "phone": "1234567890",
+      "id": 4
+    },
+    {
+      "name": "ABCD",
+      "username": "abcd_1",
+      "email": "abcd@react.com",
+      "phone": "9876543210",
+      "id": 5
+    },
+    {
+      "name": "EFGH",
+      "username": "EFGH_1",
+      "email": "efgh@test.com",
+      "phone": "1234567890",
+      "id": 6
+    }
+  ]
+}
